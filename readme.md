@@ -8,7 +8,7 @@ This project focuses on analyzing sales and financial data using Microsoft Excel
 ## 📸 Profit by Product Category	
 ![Dashboard Preview](image.png)
 
-## 📸 PSales by Region		
+## 📸 Sales by Region		
 ![Dashboard Preview](image1.png)
 
 ## 🎯 Objectives
