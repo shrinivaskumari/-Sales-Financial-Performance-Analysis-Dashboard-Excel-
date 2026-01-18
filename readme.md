@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This project focuses on analyzing sales and financial data using Microsoft Excel to support business decision-making. The objective is to evaluate sales performance, profitability, and trends across regions and product categories.
 
+## 📸 Dashboard Preview
+
+![Dashboard Preview](image.png)
+
 ## 🎯 Objectives
 - Analyze region-wise and product-wise sales performance
 - Calculate profitability and key financial metrics
